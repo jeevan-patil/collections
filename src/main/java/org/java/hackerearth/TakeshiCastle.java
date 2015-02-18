@@ -6,6 +6,11 @@ import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.List;
 
+/**
+ * @author jeevan
+ * @purpose Solution for a problem on hackerearch.com
+ * 
+ * /
 public class TakeshiCastle {
     public static void main(String[] args) {        
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
